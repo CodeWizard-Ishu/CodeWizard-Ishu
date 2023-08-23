@@ -1,4 +1,3 @@
-![logo](https://github.com/CodeWizard-Ishu/Codewizard-Ishu/blob/main/Profile%20Banner/banner.jpg)
 <h1 align="center">Hi 👋, I'm Utkarsh Jaiswal</h1>
 <h3 align="center">You're welcome to my profile!</h3>
 
